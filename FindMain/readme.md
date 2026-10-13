@@ -1,4 +1,4 @@
-# Oberview
+# Overview
 Find main() -- stripped or not. (>.<)
 
 ## Usage :: elf Binaries
